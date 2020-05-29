@@ -1,4 +1,4 @@
-/*
+
 	Tapestry by TEMPLATED
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
@@ -14,9 +14,6 @@ body {
 }
 
 /* Header */
-
-#header-wrapper {
-}
 
 #header {
 	display: none;
@@ -136,11 +133,6 @@ body {
 	padding: 2em 0em 0em 0em;
 }
 
-/* Page Wrapper */
-
-#page {
-}
-
 /* Banner */
 
 #banner {
@@ -157,9 +149,6 @@ body {
 }
 
 /* Content */
-
-#content {
-}
 
 #content h2 {
 	padding: 1em 0em 1em 0em;
@@ -195,19 +184,10 @@ body {
 
 /* Sidebar1 */
 
-#sidebar1 {
-}
-
 #sidebar1 h2 {
 	padding: 1em 0em 1.5em 0em;
 	text-transform: none;
 	font-size: 1.75em;
-}
-
-#sidebar1 img {
-}
-
-#sidebar1 a img {
 }
 
 #sidebar1 section {
@@ -217,38 +197,25 @@ body {
 
 /* Sidebar2 */
 
-#sidebar2 {
-}
-
 #sidebar2 h2 {
 	padding: 1em 0em 1.5em 0em;
 	text-transform: none;
 	font-size: 1.75em;
 }
 
-
 #sidebar2 section {
 	padding: 0em 1.87em;
 }
-
 
 #sidebar2 .sbox1 {
 	margin-bottom: 3.12em;
 }
 
-
 #sidebar2 .sbox2 {
 	margin-bottom: 3.12em;
 }
 
-#sidebar2 .sbox3 {
-}
-
-
 /** Footer Column Content */
-
-#footer-wrapper {
-}
 
 #footer-content {
 	overflow: hidden;
@@ -269,28 +236,15 @@ body {
 	padding: 0em 1.87em 2em 1.87em;
 }
 
-
-#footer-content #box1 {
-}
-
-#footer-content #box2 {
-}
-
 #footer-content #box3 {
 	overflow: hidden;
 }
-
 
 /* Marketing */
 
 #marketing {
 	overflow: hidden;
 }
-
-#marketing .divider {
-}
-
-
 
 #marketing section {
 	padding: 0em 1.87em 2em 1.87em;
@@ -311,7 +265,6 @@ body {
 	display: block;
 	width: 100%;
 }
-
 
 /* Featured */
 
