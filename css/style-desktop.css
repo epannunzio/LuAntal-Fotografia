@@ -83,8 +83,8 @@
 }
 
 #nav .current_page_item a {
-	background: #212121;
-	color: #FFFFFF;
+	background: grey;
+	color: rgb(80, 12, 80);
 	box-shadow: inset 0px -15px 10px 0px rgba(0,0,0,0.25);
 	text-shadow: none;
 }
