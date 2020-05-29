@@ -50,14 +50,14 @@ strong {
 .button-style1 a {
 	display: block;
 	padding: 1em 0em 1em 1em;
-	background: #000000 url(images/img03.jpg) no-repeat right 50%;
+	background: grey url(images/lu.jpg) no-repeat right 50%;
 	text-decoration: none;
 	text-shadow: none;
 	text-transform: none;
 	font-family: 'Oswald', sans-serif;
 	font-size: 1em;
 	font-weight: 200;
-	color: #FFFFFF;
+	color: rgb(80, 12, 80);
 }
 
 /* Button Style 2 */
@@ -67,14 +67,14 @@ strong {
 	height: 2.60em;
 	margin-top: 1.25em;
 	padding: 0em 1.25em 0em 1.25em;
-	background: #766946;
+	background: rgb(80, 12, 80);
 	border-radius: 5px;
 	line-height: 2.60em;
 	text-shadow: none;
 	text-decoration: none;
 	text-transform: none;
 	font-size: 0.90em;
-	color: #FFFFFF;
+	color: grey;
 }
 
 
