@@ -47,14 +47,14 @@ strong {
 .button-style1 a {
 	display: block;
 	padding: 1em 0em 1em 1em;
-	background: grey url(images/img02.jpg) no-repeat right 50%;
+	background: grey;
 	text-decoration: none;
 	text-shadow: none;
 	text-transform: none;
 	font-family: 'Oswald', sans-serif;
 	font-size: 2vh;
 	font-weight: 200;
-	color: rgb(80, 12, 80);
+	color: purple;
 }
 
 /** LIST STYLE 1 */
