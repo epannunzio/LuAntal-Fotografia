@@ -29,6 +29,12 @@ h2 {
 	font-size: 1.75em;
 }
 
+/*icons style */
+  i.fas,
+  i.fab {
+    border: 1px solid grey;
+}
+
 p {
 	line-height: 170%;
 }
@@ -257,8 +263,6 @@ ul.style6 .first {
 	padding-top: 0em;
 	background: none;
 }
-
-
 
 .balloon {
 	padding: 1.87em;
