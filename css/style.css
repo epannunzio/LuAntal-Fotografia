@@ -139,8 +139,9 @@ ul.style2 .date a {
 }
 
 ul.style2 img {
-	float: left;
-	margin-right: 1.5em;
+	float: right;
+	margin-right: 20em;
+	width: 60vh;
 }
 
 ul.style2 .first {
