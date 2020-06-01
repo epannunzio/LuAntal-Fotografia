@@ -145,7 +145,11 @@ body {
 
 #banner a img {
 	display: block;
-	width: 100%;
+	width: 623px; 
+	height: 921px; 
+	border: 1px solid rgb(112, 33, 72);
+	width: inherit; 
+	height: inherit;
 }
 
 /* Content */
