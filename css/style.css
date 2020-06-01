@@ -32,7 +32,13 @@ h2 {
 /*icons style */
   i.fas,
   i.fab {
-    border: 2px solid grey;
+	border: 2px solid grey;
+	text-align: center;
+	color: white;
+        font-size: 4em;
+	transition: text-shadow 1s;
+	text-decoration:none;
+        text-shadow: 0px 0px 20px coral;
 }
 
 p {
