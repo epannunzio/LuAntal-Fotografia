@@ -45,6 +45,10 @@ i.fab.fa-instagram-square {
 	float: right;
 } 
 
+i.fas.fa-envelope-square {
+	float:left;
+}
+
 p {
 	line-height: 170%;
 }
