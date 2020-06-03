@@ -16,7 +16,8 @@ body {
 /* Header */
 
 #header {
-	text-align:center;
+	position: relative;
+	padding: 3em 0em;
 }
 
 /*********************************************************************************/
