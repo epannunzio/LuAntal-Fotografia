@@ -107,6 +107,8 @@ ul.style1 a:hover {
 
 ul.style1 .first {
 	background: none;
+	font-size: 1.5em;
+        font-style: italic;
 }
 
 /** LIST STYLE 2 */
