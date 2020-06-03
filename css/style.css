@@ -25,6 +25,10 @@ h1, h2, h3 {
 	color: #887644;
 }
 
+img {
+	width: 300%;
+}
+
 h2 {
 	font-size: 1.75em;
 }
