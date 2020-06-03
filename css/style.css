@@ -152,6 +152,8 @@ ul.style2 img {
 	float: right;
 	margin-right: 25em;
 	width: 70vh;
+	background:white;
+	padding:1em;
 }
 
 ul.style2 .first {
