@@ -150,6 +150,7 @@ body {
 	width: 100%; 
 	border: 1px solid white; 
 	height: auto !important;
+	padding:1em;
 }
 
 /* Content */
