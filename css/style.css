@@ -30,14 +30,12 @@ h2 {
 }
 
 /*icons style */
- i.fas,
- i.fab {
-	border: 1em solid white;
+  i {
 	text-align: center;
 	color: black;
-        font-size: 2em
+    font-size: 2em;
 	text-decoration:none;
-	display:block; 
+	display:block;
 }
 
 i.fab.fa-instagram-square {
@@ -48,9 +46,9 @@ i.fas.fa-envelope-square {
 	float:left;
 }
 
-i.fab.fa-whatsapp {
+i.fab.fa-whatsapp-square {
 	
-}
+} 
 
 p {
 	line-height: 170%;
@@ -58,11 +56,10 @@ p {
 
 a {
 	color: #706443;
-        font-size: 1.5em;
-        font-style: italic;
-        font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
 }
-
 
 strong {
 	font-weight: 700;
@@ -93,7 +90,6 @@ ul.style1 {
 
 ul.style1 li {
 	padding: 0.94em 0em;
-	background: url(images/img02.jpg) repeat-x left top;
 }
 
 ul.style1 a {
@@ -123,7 +119,6 @@ ul.style2 {
 
 ul.style2 li {
 	padding: 1.25em 0em 2.5em 0em;
-	background: url(images/img02.jpg) repeat-x left top;
 }
 
 ul.style2 a {
@@ -208,7 +203,6 @@ ul.style4 {
 
 ul.style4 li {
 	padding: 0.94em 0em 0.94em 0em;
-	background: url(images/img02.jpg) repeat-x left top;
 }
 
 ul.style4 a {
