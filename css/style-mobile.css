@@ -325,9 +325,12 @@ ul.style5 a img {
 }
 
 ul.style2 img {
-	float: left;
-	margin-right: 1.5em;
-}
+        float: left;
+        margin-right: 1.5em;
+        margin-left: -2em;
+        background: white;
+	padding: 1em;
+}	
 
 ul.style2 a img {
 	display: block;
