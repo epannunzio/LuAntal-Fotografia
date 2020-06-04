@@ -26,7 +26,7 @@ h1, h2, h3 {
 }
 
 img {
-	width: 300%;
+	width:300%;
 }
 
 h2 {
@@ -41,18 +41,6 @@ h2 {
 	text-decoration:none;
 	display:block;
 }
-
-i.fab.fa-instagram-square {
-	float: right;
-} 
-
-i.fas.fa-envelope-square {
-	float:left;
-}
-
-i.fab.fa-whatsapp-square {
-	
-} 
 
 p {
 	line-height: 170%;
