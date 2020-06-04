@@ -120,11 +120,8 @@
 }
 
 #banner a img {
-	display: block;
-	width: 100%; 
-	border: 1px solid white; 
-	height: auto !important;
-	padding:1em;
+        width: 100%;
+	display:block;
 }
 
 /* Content */
