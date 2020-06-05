@@ -45,7 +45,7 @@ body {
 	
 	#titleBar .title span
 	{
-		display: hidden;
+		display: none;
 	}
 
 	#titleBar .toggle
