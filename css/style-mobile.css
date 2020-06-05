@@ -31,9 +31,8 @@ body {
 	float:left;
 	padding: 1em 0em 0em 0em;
 	font-family:Georgia, "Times New Roman", Times, serif;
-	font-size: 1.5em;
-	font-size:italic;
-	color: black;
+	font-size: 2em;
+	color: black
 }
 
 #logo span {
@@ -41,7 +40,7 @@ body {
 	padding: 1em 0em 0em 0em;
 	font-family:Georgia, "Times New Roman", Times, serif;
 	font-size: 1.5em;
-	font-size:italic;
+	font-style:italic;
 	color: #545454
 }
 
