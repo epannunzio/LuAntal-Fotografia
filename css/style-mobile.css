@@ -22,7 +22,7 @@ body {
 }
 
 #logo {
-	position:absolute;
+	position:initial;
 	top:3em;
 	left:0;
 }
