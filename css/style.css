@@ -30,12 +30,19 @@ h2 {
 }
 
 /*icons style */
-  i {
-	text-align: center;
-	color: black;
-    font-size: 2em;
-	text-decoration:none;
-	display:block;
+ .fa-whatsapp-square:before {
+	content: "\f40c";
+	color: grey;
+}
+
+.fa-instagram-square:before {
+	content: "\f955";
+    color: grey;
+}
+
+.fa-envelope-square:before {
+	content: "\f199";
+    color: grey;
 }
 
 p {
