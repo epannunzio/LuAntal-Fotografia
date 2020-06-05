@@ -9,6 +9,7 @@
 #header {
 	position: relative;
 	padding: 3em 0em;
+	display:block;
 }
 
 /* Logo */
