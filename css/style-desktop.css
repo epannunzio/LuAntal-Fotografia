@@ -185,6 +185,11 @@
 	overflow: visible;
 }
 
+#footer-content #box4, 
+img {
+	width: 500px;
+}
+
 /* Marketing */
 
 #marketing {
