@@ -29,6 +29,11 @@ body {
 
 #logo h1 {
 	float:left;
+	padding: 1em 0em 0em 0em;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size: 1.5em;
+	font-size:italic;
+	color: grey;
 }
 
 #logo span {
