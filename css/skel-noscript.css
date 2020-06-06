@@ -41,7 +41,6 @@
 .portfolio .grid {
   display: grid;
   gap: 2em;
-  color: white
 }
 
 @media (min-width: 560px) {
@@ -57,10 +56,6 @@
     justify-content: center;
     height: calc(100vh - 8em - 48px);
   }
-}
-
-.portfolio figure {
-  text-align: center;
 }
 
 	/* Cells */
