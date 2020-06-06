@@ -38,6 +38,31 @@
 
 /* Grid */
 
+.portfolio .grid {
+  display: grid;
+  gap: 2em;
+  color: white
+}
+
+@media (min-width: 560px) {
+  .portfolio .grid {
+    grid-template-columns: 240px 240px
+  }
+}
+
+@media (min-width: 880px) {
+  .portfolio .grid {
+    grid-template-columns: repeat(2, 260px);
+    align-content: center;
+    justify-content: center;
+    height: calc(100vh - 8em - 48px);
+  }
+}
+
+.portfolio figure {
+  text-align: center;
+}
+
 	/* Cells */
 
 		.\31 2u { width: 100% }
