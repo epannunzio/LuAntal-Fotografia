@@ -102,12 +102,6 @@
 	padding:2em;
 }
 
-  * {box-sizing: border-box;}
-  .wrapper {
-	  border: 10px solid white;
-	  border-radius: 10px;
-}
-
   .wrapper > div {
 	  border: 2px solid white;
 	  border-radius: 5px;
