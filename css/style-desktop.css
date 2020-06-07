@@ -151,8 +151,9 @@
 /* Content */
 
 #content h2 {
-	padding: 0em 0em 1em 0em;
-	font-size: 2.5em;
+	padding: 0em 0em 1em 4em;
+        font-size: 2.5em;
+        position: absolute;
 }
 
 #content img {
