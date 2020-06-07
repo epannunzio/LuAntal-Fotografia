@@ -106,6 +106,7 @@ ul.style1 a:hover {
 ul.style1 .first {
 	background: none;
 	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
 }
 
 /** LIST STYLE 2 */
