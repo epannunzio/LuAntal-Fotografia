@@ -98,13 +98,14 @@
 
 .wrapper {
 	display: grid;
-	grid-template-columns:200px 200px 200px;
+	grid-template-columns:300px 300px 200px;
+	padding:2em;
 }
 
   * {box-sizing: border-box;}
   .wrapper {
-	  border: 2px solid white;
-	  border-radius: 5px;
+	  border: 10px solid white;
+	  border-radius: 10px;
 }
 
   .wrapper > div {
