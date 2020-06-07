@@ -105,13 +105,11 @@
   .wrapper {
 	  border: 2px solid white;
 	  border-radius: 5px;
-	  background-color: white;
 }
 
   .wrapper > div {
 	  border: 2px solid white;
 	  border-radius: 5px;
-	  background-color: white;
 	  padding: 1em;
 	  color: white;
 }
@@ -119,7 +117,6 @@
   .nested {
 	  border: 2px solid #ffec99;
 	  border-radius: 5px;
-	  background-color: #fff9db;
 	  padding: 1em;
 }
 
