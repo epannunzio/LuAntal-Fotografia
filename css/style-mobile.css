@@ -16,9 +16,13 @@ body {
 /* Header */
 
 #header {
-	position: relative;
-	padding: 1em 1em;
 	display:flex;
+	align-items:center;
+	justify-content:space-between;
+}
+
+#nav {
+	text-align:right;
 }
 
 #logo {
