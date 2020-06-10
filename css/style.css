@@ -66,9 +66,9 @@ strong {
 /* Button Style */
 
 .button-style1 a {
-	display: block;
-	padding: 1em 0em 1em 1em;
-	background: grey;
+	display: flex;
+	padding: 0em 0em 0em 1em;
+	background: #009688;
 	text-decoration: none;
 	text-shadow: none;
 	text-transform: none;
@@ -76,6 +76,7 @@ strong {
 	font-size: 2vh;
 	font-weight: 200;
 	color: white;
+	width:14.8em;
 }
 
 /** LIST STYLE 1 */
