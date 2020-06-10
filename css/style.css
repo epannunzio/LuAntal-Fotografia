@@ -32,17 +32,17 @@ h2 {
 /*icons style */
  .fa-whatsapp-square:before {
 	content: "\f40c";
-	color: grey;
+	color: #009688;
 }
 
 .fa-instagram-square:before {
 	content: "\f955";
-    color: grey;
+    color: #009688;
 }
 
 .fa-envelope-square:before {
 	content: "\f199";
-    color: grey;
+    color: #009688;
 }
 
 p {
