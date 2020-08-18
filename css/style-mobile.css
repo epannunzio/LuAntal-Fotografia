@@ -1,4 +1,4 @@
-
+/*
 	Tapestry by TEMPLATED
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
@@ -13,16 +13,14 @@ body {
 	padding-top: 40px;
 }
 
-/* Header */
-
 #header {
-	display:flex;
-	align-items:center;
-	justify-content:space-between;
+		display:flex;
+		align-items:center;
+		justify-content:space-between;
 }
-
+	
 #nav {
-	text-align:right;
+		text-align:right;
 }
 
 #logo {
@@ -53,7 +51,7 @@ body {
 
 #titleBar
 {
-	background: #62573b;
+	background:  #62573b;
 }
 
 	#titleBar .title a
@@ -348,7 +346,6 @@ img {
 
 #copyright p {
 	text-align: center;
-	font-size:2vh;
 }
 
 
@@ -358,12 +355,12 @@ ul.style5 a img {
 }
 
 ul.style2 img {
-       float: left;
-       margin-right: 2em;
-       margin-left: -2em;
-       background: white;
-       padding: 1.5em;
-       width: 55vh;
+	float: left;
+    margin-right: 2em;
+    margin-left: -2em;
+    background: white;
+    padding: 1.5em;
+    width: 55vh;
 }	
 
 ul.style2 a img {

@@ -9,7 +9,7 @@
 #header {
 	position: relative;
 	padding: 3em 0em;
-	display:block;
+	display: block;
 }
 
 /* Logo */
@@ -20,12 +20,11 @@
 	left: 0;
 }
 
-#logo h1
-{
+#logo h1 {
 	float: left;
 }
 
-#logo h1 a {
+#logo h1 {
 	padding: 0.5em 0.25em 0em 0em;
 	text-decoration: none;
 	text-transform: none;
@@ -88,7 +87,6 @@
 /* Wrapper */
 
 #wrapper {
-	overflow: hidden;
 	margin: 5em 0em 3em 0em;
 }
 
@@ -97,24 +95,21 @@
 }
 
 .wrapper {
-	display: grid;
-	grid-template-columns:300px 300px 200px;
-	padding:2em;
+	display:flex;
+    background-color: white;
+    margin-right: 200px;
+    margin-left: 200px;
+    padding: 15px;
+    justify-content: center;
 }
 
-  .wrapper > div {
-	  border: 2px solid white;
-	  border-radius: 5px;
-	  padding: 1em;
-	  color: white;
-}
 
-  .nested {
+.nested {
 	  border: 2px solid #ffec99;
 	  border-radius: 5px;
 	  padding: 1em;
-}
-
+  }
+  
 /* Page Wrapper */
 
 #page {
@@ -139,7 +134,7 @@
 }
 
 #banner a img {
-        width: 100%;
+    width: 100%;
 	display:block;
 }
 
@@ -147,7 +142,7 @@
 
 #content h2 {
 	padding: 0em 0em 1em 0em;
-        font-size: 2.5em;
+    font-size: 2.5em;
 }
 
 #content img {
@@ -160,7 +155,12 @@
 }
 
 #content .post {
-	padding: 0em 0em 2.5em 2em;
+	padding: 10px 25px 10px 10px;
+    font-size: 15px;
+}
+
+#content .welcome {
+    padding: 100px 105px 120px 110px;
 }
 
 /* Sidebar1 */
