@@ -94,21 +94,27 @@
 	margin-top: 0em;
 }
 
-.wrapper {
-	display:flex;
-    background-color: white;
-    margin-right: 200px;
-    margin-left: 200px;
-    padding: 15px;
-    justify-content: center;
+.gallery-img img { 
+    width: 60%; 
+    margin-left: 330px;
+    border-radius: 8px;
 }
 
+.col-1-3 {
+    display: flex;
+    margin-left: auto;
+    margin-top: 15px;
+}
+
+.row {
+   overflow: auto;     
+}
 
 .nested {
 	  border: 2px solid #ffec99;
 	  border-radius: 5px;
 	  padding: 1em;
-  }
+}
   
 /* Page Wrapper */
 
@@ -143,15 +149,6 @@
 #content h2 {
 	padding: 0em 0em 1em 0em;
     font-size: 2.5em;
-}
-
-#content img {
-	padding: 0em 0em 1.25em 0em;
-}
-
-#content a img {
-	display: block;
-	width: 20em;
 }
 
 #content .post {
