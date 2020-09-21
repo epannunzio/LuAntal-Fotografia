@@ -1,0 +1,276 @@
+/*
+	Tapestry by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
+
+/* Header */
+
+#header {
+	position: relative;
+	padding: 3em 0em;
+	display: block;
+}
+
+/* Logo */
+
+#logo {
+	position: absolute;
+	top: 3em;
+	left: 0;
+}
+
+#logo h1 {
+	float: left;
+}
+
+#logo h1 {
+	padding: 0.5em 0.25em 0em 0em;
+	text-decoration: none;
+	text-transform: none;
+	font-family: 'Oswald', sans-serif;
+	font-size: 3.5em;
+	font-weight: 200;
+	color: #1C1C1C;
+}
+
+#logo span {
+	float: left;
+	padding: 1em 0em 0em 0em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 2.5em;
+	font-style: italic;
+	color: #545454;
+}
+
+/* Menu */
+
+#nav {
+	position: absolute;
+	top: 3em;
+	right: 0;
+}
+
+#nav ul {
+	float: right;
+	text-align: center;
+}
+
+#nav li {
+	display: inline-block;
+}
+
+#nav a {
+	display: block;
+	float: left;
+	margin-right: 0.12em;
+	padding: 0.75em 1.5em;
+	text-decoration: none;
+	text-transform: none;
+	font-family: 'Abel', sans-serif;
+	font-size: 1.25em;
+	color: #2C2C2C;
+}
+
+#nav .current_page_item {
+	color: #2C2C2C;
+}
+
+#nav .current_page_item a {
+	background: #009688;
+	color: white;
+	box-shadow: inset 0px -15px 10px 0px rgba(0,0,0,0.25);
+	text-shadow: none;
+}
+
+
+/* Wrapper */
+
+#wrapper {
+	margin: 5em 0em 3em 0em;
+}
+
+.homepage #wrapper {
+	margin-top: 0em;
+}
+
+.gallery-img { 
+    width: 60%;
+    margin-top: 15px;
+    margin-left: 250px;
+    margin-bottom: 15px;
+    border: solid 10px white;
+    border-radius: 10px;
+}
+
+.col-1-3 {
+    float: left;
+    width: 33.33%;
+}
+
+.fotinhos {
+    width: 100%;
+    margin-top: 5px;
+    padding: 5px;
+    border: solid 8px white;
+    border-radius: 10px;
+}
+
+.row-img:after {
+    clear: both;
+    display: inline-block;
+    margin: 5px;
+    
+}
+
+.nested {
+	  border: 2px solid #ffec99;
+	  border-radius: 5px;
+	  padding: 1em;
+}
+  
+/* Page Wrapper */
+
+#page {
+	overflow: hidden;
+	background: url(images/img02.jpg) repeat-x left bottom;
+}
+
+
+/* Banner */
+
+#banner {
+	overflow: hidden;
+	margin: 3em 0em;
+	background: url(images/img02.jpg) repeat-x left bottom;
+}
+
+#banner .container {
+	margin-bottom: 3em;
+	padding: 2em;
+	background: #FFFFFF url(images/img02.png) repeat;
+	width: 50%
+}
+
+#banner a img {
+    width: 100%;
+	display:block;
+}
+
+/* Content */
+
+#content h2 {
+	padding: 0em 0em 1em 0em;
+    font-size: 2.5em;
+}
+
+#content .post {
+	padding: 10px 25px 10px 10px;
+    font-size: 15px;
+}
+
+#content .welcome {
+    padding: 100px 105px 120px 110px;
+}
+
+/* Sidebar1 */
+
+#sidebar1 h2 {
+	padding: 0em 0em 1em 0em;
+}
+
+/* Sidebar2 */
+
+#sidebar2 h2 {
+	padding: 0em 0em 1em 0em;
+}
+
+#sidebar2 .sbox1 {
+	margin-bottom: 3.12em;
+}
+
+#sidebar2 .sbox2 {
+	margin-bottom: 3.12em;
+}
+
+/** Footer Column Content */
+
+#footer-content {
+	overflow: hidden;
+	padding: 2em 0em 3.12em 0em;
+}
+
+#footer-content h2 {
+	padding: 0em 0em 1.5em 0em;
+	text-transform: none;
+}
+
+#footer-content strong {
+	color: #766946 !important;
+}
+
+#footer-content #box2 {
+	overflow: visible;
+}
+
+#footer-content #box4, 
+img {
+	width: 500px;
+}
+
+/* Marketing */
+
+#marketing {
+	overflow: hidden;
+}
+
+#marketing .divider {
+	margin-bottom: 3em;
+	padding-bottom: 3em;
+}
+
+#marketing .title {
+	padding-bottom: .75em;
+}
+
+#marketing .subtitle {
+	padding: 0em 0em 2em 0em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+}
+
+#marketing a img {
+	display: block;
+	width: 100%;
+}
+
+/* Featured */
+#featured-area {
+	overflow: hidden;
+}
+
+#featured-area .divider {
+	margin-bottom: 3em;
+	padding-bottom: 3em;
+	background: url(images/img02.jpg) repeat-x left bottom;
+}
+
+#featured-area .box-style {
+	overflow: hidden;
+	padding: 2em 0em;
+}
+
+#featured-area .box-style h3 {
+	padding-bottom: 1em;
+	font-size: 1.5em;
+}
+
+#featured-area .box-style img {
+	float: left;
+	margin-right: 1.56em;
+}
+
+#featured-area .box-style a img {
+	display: block;
+	width: 40%;
+}
